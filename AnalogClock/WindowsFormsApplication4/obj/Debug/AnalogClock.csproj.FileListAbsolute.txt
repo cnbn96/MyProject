@@ -1,0 +1,9 @@
+c:\users\binh\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\AnalogClock.csprojResolveAssemblyReference.cache
+c:\users\binh\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\AnalogClock.Form1.resources
+c:\users\binh\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+c:\users\binh\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\AnalogClock.csproj.GenerateResource.Cache
+C:\Users\BINH\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AnalogClock.exe.config
+C:\Users\BINH\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AnalogClock.exe
+C:\Users\BINH\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AnalogClock.pdb
+C:\Users\BINH\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\AnalogClock.exe
+C:\Users\BINH\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\AnalogClock.pdb
